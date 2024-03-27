@@ -13,7 +13,7 @@ Minishell is a project that seeks to  recreate a shell inspired by Bash, coded i
 ## :inbox_tray: **Cloning the repository**
 
 ```shell
-git clone git@github.com:JenniferAraujo/Minishell.git 
+git clone git@github.com:rimarque/Minishell.git 
 ```
 
 ## 💎 **Features**
